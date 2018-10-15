@@ -1,0 +1,11 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Private API for taravancil.com",
+  "dependencies": {
+    "hapi": "^17.6.0"
+  },
+  "devDependencies": {},
+  "author": "Tara Vancil <contact@taravancil.com>",
+  "license": "MIT"
+}
