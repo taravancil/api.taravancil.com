@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Private API for taravancil.com",
   "dependencies": {
-    "hapi": "^17.6.0"
+    "bcrypt": "^3.0.2",
+    "hapi": "^17.6.0",
+    "joi": "^14.0.1"
   },
   "devDependencies": {},
   "author": "Tara Vancil <contact@taravancil.com>",
